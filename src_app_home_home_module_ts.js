@@ -162,8 +162,8 @@ const parcelamientoImages = [
         thumbnail: '/assets/parcelamiento/mini/483.Varma120AcresR0D-1.Plotsi.Color.jpg',
     },
     {
-        path: '/assets/parcelamiento/KompallyLandCADAJ-3BlackSELEETex0.15pulg.png',
-        thumbnail: '/assets/parcelamiento/mini/KompallyLandCADAJ-3BlackSELEETex0.15pulg.png',
+        path: '/assets/parcelamiento/KompallyLandCADAJ-3BlackSELEETex0.15pulg.jpg',
+        thumbnail: '/assets/parcelamiento/mini/KompallyLandCADAJ-3BlackSELEETex0.15pulg.jpg',
     },
     {
         path: '/assets/parcelamiento/KompallyLandCADAJ-3ColorSELEE.Tex015pulg.jpg',
