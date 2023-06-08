@@ -13,23 +13,70 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "mobiliario": () => (/* binding */ mobiliario)
 /* harmony export */ });
 const mobiliarioImgs = [
-    '/assets/mobiliario/484.Plots-Color-Site/Color-Site-Plan-R0-ai-version.png',
-    '/assets/mobiliario/484.Plots-Color-Site/Color-Site-Plan-R0-psd-version.png',
-    '/assets/mobiliario/490.Office-Cad/Relayout-space-to-make-LAW-FIRM-R0-3.png',
-    '/assets/mobiliario/490.Office-Cad/Relayout-space-to-make-LAW-FIRM-R0-4.png',
-    '/assets/mobiliario/505.Office-Cad/505-Office-Cad-01-d-4.png',
-    '/assets/mobiliario/505.Office-Cad/505-Office-Cad-01-d-5.png',
-    '/assets/mobiliario/515.Beauty-Salon-Cad/515.Beauty-Salo-Cad-R0-8.png',
-    '/assets/mobiliario/515.Beauty-Salon-Cad/515.Beauty-Salon-Cad-R0-6-dim.png',
-    '/assets/mobiliario/515.Beauty-Salon-Cad/515.Beauty-Salon-Cad-R0-6.png',
-    '/assets/mobiliario/515.Beauty-Salon-Cad/515.Beauty-Salon-Cad-R0-8-dim.png',
-    '/assets/mobiliario/518.Beauty-Salon/518.Beauty-Salon-Cad-R1-1-dim.png',
-    '/assets/mobiliario/518.Beauty-Salon/518.Beauty-Salon-Cad-R1-1.png',
-    '/assets/mobiliario/520.Private-Resort/520.Private-Resort-R0-A.png',
-    '/assets/mobiliario/520.Private-Resort/520.Private-Resort-R0-B.png',
-    '/assets/mobiliario/527.Two-Story-House/527.Floor-Plan-2-Story-0-Land-Before.jpg',
-    '/assets/mobiliario/527.Two-Story-House/527.Floor-Plan-2-Story-R1-1.Ground-&-First-Black.jpg',
-    '/assets/mobiliario/527.Two-Story-House/527.Floor-Plan-2-Story-R1-1.Ground&First-Color.jpg',
+    {
+        path: '/assets/mobiliario/505OfficeCad01d-4.jpg',
+        thumbnail: '/assets/mobiliario/mini/505OfficeCad01d-4.jpg',
+    },
+    {
+        path: '/assets/mobiliario/505OfficeCad01d-5.jpg',
+        thumbnail: '/assets/mobiliario/mini/505OfficeCad01d-5.jpg',
+    },
+    {
+        path: '/assets/mobiliario/515.BeautySalonCadR0-6',
+        thumbnail: '/assets/mobiliario/mini/515.BeautySalonCadR0-6',
+    },
+    {
+        path: '/assets/mobiliario/515.BeautySalonCadR0-6dim.jpg',
+        thumbnail: '/assets/mobiliario/mini/515.BeautySalonCadR0-6dim.jpg',
+    },
+    {
+        path: '/assets/mobiliario/515.BeautySalonCadR0-8.jpg',
+        thumbnail: '/assets/mobiliario/mini/515.BeautySalonCadR0-8.jpg',
+    },
+    {
+        path: '/assets/mobiliario/515.BeautySalonCadR0-8dim.jpg',
+        thumbnail: '/assets/mobiliario/mini/515.BeautySalonCadR0-8dim.jpg',
+    },
+    {
+        path: '/assets/mobiliario/518.BeautySalonCadR1-1.jpg',
+        thumbnail: '/assets/mobiliario/mini/518.BeautySalonCadR1-1.jpg',
+    },
+    {
+        path: '/assets/mobiliario/520.PrivateResortR0A',
+        thumbnail: '/assets/mobiliario/mini/520.PrivateResortR0A',
+    },
+    {
+        path: '/assets/mobiliario/520.PrivateResortR0B.jpg',
+        thumbnail: '/assets/mobiliario/mini/520.PrivateResortR0B.jpg',
+    },
+    {
+        path: '/assets/mobiliario/527.FloorPlan2Story-0LandBefore.jpg',
+        thumbnail: '/assets/mobiliario/mini/527.FloorPlan2Story-0LandBefore.jpg',
+    },
+    {
+        path: '/assets/mobiliario/527.FloorPlan2StoryR1-1.Ground&FirstBlack.jpg',
+        thumbnail: '/assets/mobiliario/mini/527.FloorPlan2StoryR1-1.Ground&FirstBlack.jpg',
+    },
+    {
+        path: '/assets/mobiliario/527.FloorPlan2StoryR1-1.Ground&FirstColor.jpg',
+        thumbnail: '/assets/mobiliario/mini/527.FloorPlan2StoryR1-1.Ground&FirstColor.jpg',
+    },
+    {
+        path: '/assets/mobiliario/ColorSitePlanR0aiversion.jpg',
+        thumbnail: '/assets/mobiliario/mini/ColorSitePlanR0aiversion.jpg',
+    },
+    {
+        path: '/assets/mobiliario/ColorSitePlanR0psdversion.jpg',
+        thumbnail: '/assets/mobiliario/mini/ColorSitePlanR0psdversion.jpg',
+    },
+    {
+        path: '/assets/mobiliario/RelayoutspacetomakeLAWFIRMR0-3.jpg',
+        thumbnail: '/assets/mobiliario/mini/RelayoutspacetomakeLAWFIRMR0-3.jpg',
+    },
+    {
+        path: '/assets/mobiliario/RelayoutspacetomakeLAWFIRMR0-4.jpg',
+        thumbnail: '/assets/mobiliario/mini/RelayoutspacetomakeLAWFIRMR0-4.jpg',
+    },
 ];
 const mobiliario = [
     {
@@ -82,16 +129,46 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "parcelamiento": () => (/* binding */ parcelamiento)
 /* harmony export */ });
 const parcelamientoImages = [
-    '/assets/parcelamiento/479-KISTAPUR-1B-2.jpg',
-    '/assets/parcelamiento/479-KISTAPUR-Color-R0Ci.jpg',
-    '/assets/parcelamiento/480-KISTAPUR-R1F-color-4C.png',
-    '/assets/parcelamiento/480-KISTAPUR-R1Fiv-color-4E.png',
-    '/assets/parcelamiento/481-Ramannaguda-R03-H-color-version.png',
-    '/assets/parcelamiento/481-Ramannaguda-R03-H.png',
-    '/assets/parcelamiento/483-Varma-120-Acres-R0D-1-Plots-i-Black.png',
-    '/assets/parcelamiento/483-Varma-120-Acres-R0D-1-Plots-i-Color.png',
-    '/assets/parcelamiento/Kompally-Land-CAD-AJ-3-Black-SE-LEE-Tex0.15 pulg.png',
-    '/assets/parcelamiento/Kompally-Land-CAD-AJ-3-Color-SE-LEE-Tex015 pulg.png'
+    {
+        path: '/assets/parcelamiento/479KISTAPUR1B-2.jpg',
+        thumbnail: '/assets/parcelamiento/mini/479KISTAPUR1B-2.jpg',
+    },
+    {
+        path: '/assets/parcelamiento/479KISTAPURColorR0Ci.jpg',
+        thumbnail: '/assets/parcelamiento/mini/479KISTAPURColorR0Ci.jpg',
+    },
+    {
+        path: '/assets/parcelamiento/480KISTAPURR1Fcolor4C.jpg',
+        thumbnail: '/assets/parcelamiento/mini/480KISTAPURR1Fcolor4C.jpg',
+    },
+    {
+        path: '/assets/parcelamiento/480KISTAPURR1Fivcolor4E.jpg',
+        thumbnail: '/assets/parcelamiento/mini/480KISTAPURR1Fivcolor4E.jpg',
+    },
+    {
+        path: '/assets/parcelamiento/481RamannagudaR03-H.jpg',
+        thumbnail: '/assets/parcelamiento/mini/481RamannagudaR03-H.jpg',
+    },
+    {
+        path: '/assets/parcelamiento/481RamannagudaR03-Hcolorversion.jpg',
+        thumbnail: '/assets/parcelamiento/mini/481RamannagudaR03-Hcolorversion.jpg',
+    },
+    {
+        path: '/assets/parcelamiento/483.Varma120AcresR0D-1.Plotsi.Black.jpg',
+        thumbnail: '/assets/parcelamiento/mini/483.Varma120AcresR0D-1.Plotsi.Black.jpg',
+    },
+    {
+        path: '/assets/parcelamiento/483.Varma120AcresR0D-1.Plotsi.Color.jpg',
+        thumbnail: '/assets/parcelamiento/mini/483.Varma120AcresR0D-1.Plotsi.Color.jpg',
+    },
+    {
+        path: '/assets/parcelamiento/KompallyLandCADAJ-3BlackSELEETex0.15pulg.png',
+        thumbnail: '/assets/parcelamiento/mini/KompallyLandCADAJ-3BlackSELEETex0.15pulg.png',
+    },
+    {
+        path: '/assets/parcelamiento/KompallyLandCADAJ-3ColorSELEE.Tex015pulg.jpg',
+        thumbnail: '/assets/parcelamiento/mini/KompallyLandCADAJ-3ColorSELEE.Tex015pulg.jpg',
+    },
 ];
 const parcelamiento = [
     {
@@ -311,7 +388,7 @@ function GalleryComponent_img_10_Template(rf, ctx) { if (rf & 1) {
     const i_r3 = ctx.index;
     const ctx_r1 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵclassProp"]("selected", i_r3 === ctx_r1.currentIndex);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", image_r2, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", image_r2.thumbnail, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
 } }
 class GalleryComponent {
     constructor() {
@@ -372,7 +449,7 @@ GalleryComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0_
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx.images[ctx.currentIndex], _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx.images[ctx.currentIndex].path, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("disabled", ctx.currentIndex === 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
