@@ -9,8 +9,7 @@
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "mobiliarioImgs": () => (/* binding */ mobiliarioImgs),
-/* harmony export */   "mobiliario": () => (/* binding */ mobiliario)
+/* harmony export */   "mobiliarioImgs": () => (/* binding */ mobiliarioImgs)
 /* harmony export */ });
 const mobiliarioImgs = [
     {
@@ -78,41 +77,6 @@ const mobiliarioImgs = [
         thumbnail: '/assets/mobiliario/mini/RelayoutspacetomakeLAWFIRMR0-4.jpg',
     },
 ];
-const mobiliario = [
-    {
-        cover: '/assets/frontend/screenshot-ce',
-        title: 'Screenshot Chrome Extension',
-        stack: 'Angular 13, RxJS, TypeScript',
-        description: 'Utility to automate the process of take screenshot in multiple resolutions',
-        links: [
-            {
-                name: 'Repository',
-                zelda: 'https://github.com/02900/screenshot-chrome-extension',
-            },
-        ],
-        endDate: 2022,
-    },
-    {
-        cover: '/assets/frontend/deck-builder',
-        title: 'Yu-Gi-Oh! Deck Builder',
-        stack: 'Angular 13, RxJS, TypeScript',
-        description: 'Simple application to show concepts about reactive programming and good practices in Angular',
-        links: [
-            { name: 'Repository', zelda: 'https://github.com/02900/deck-builder' },
-            { name: 'Demo', zelda: 'https://02900.github.io/ygo-deck-builder/' },
-        ],
-        endDate: 2022,
-    },
-    {
-        cover: '/assets/frontend/kavak',
-        title: 'KAVAK',
-        stack: 'Typescript, Angular 11, Stencil, RxJs, Storybook',
-        description: 'Platform dedicated to the trade of used cars',
-        links: [{ name: 'Navigate to Kavak.com', zelda: 'https://www.kavak.com/' }],
-        startDate: 2018,
-        endDate: -1,
-    },
-];
 
 
 /***/ }),
@@ -125,8 +89,7 @@ const mobiliario = [
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "parkingimgs": () => (/* binding */ parkingimgs),
-/* harmony export */   "estacionamiento": () => (/* binding */ estacionamiento)
+/* harmony export */   "parkingimgs": () => (/* binding */ parkingimgs)
 /* harmony export */ });
 const parkingimgs = [
     {
@@ -182,41 +145,6 @@ const parkingimgs = [
         thumbnail: 'assets/parking/mini/524ParkingCadR2-Rev2Option1Ha.jpg',
     },
 ];
-const estacionamiento = [
-    {
-        cover: '/assets/frontend/screenshot-ce',
-        title: 'Screenshot Chrome Extension',
-        stack: 'Angular 13, RxJS, TypeScript',
-        description: 'Utility to automate the process of take screenshot in multiple resolutions',
-        links: [
-            {
-                name: 'Repository',
-                zelda: 'https://github.com/02900/screenshot-chrome-extension',
-            },
-        ],
-        endDate: 2022,
-    },
-    {
-        cover: '/assets/frontend/deck-builder',
-        title: 'Yu-Gi-Oh! Deck Builder',
-        stack: 'Angular 13, RxJS, TypeScript',
-        description: 'Simple application to show concepts about reactive programming and good practices in Angular',
-        links: [
-            { name: 'Repository', zelda: 'https://github.com/02900/deck-builder' },
-            { name: 'Demo', zelda: 'https://02900.github.io/ygo-deck-builder/' },
-        ],
-        endDate: 2022,
-    },
-    {
-        cover: '/assets/frontend/kavak',
-        title: 'KAVAK',
-        stack: 'Typescript, Angular 11, Stencil, RxJs, Storybook',
-        description: 'Platform dedicated to the trade of used cars',
-        links: [{ name: 'Navigate to Kavak.com', zelda: 'https://www.kavak.com/' }],
-        startDate: 2018,
-        endDate: -1,
-    },
-];
 
 
 /***/ }),
@@ -229,8 +157,7 @@ const estacionamiento = [
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "geoImages": () => (/* binding */ geoImages),
-/* harmony export */   "mapasGeo": () => (/* binding */ mapasGeo)
+/* harmony export */   "geoImages": () => (/* binding */ geoImages)
 /* harmony export */ });
 const geoImages = [
     {
@@ -254,39 +181,36 @@ const geoImages = [
         thumbnail: 'assets/geo/mini/DraftasurveyCivil3DR2-Parcela15179.jpg',
     },
 ];
-const mapasGeo = [
+
+
+/***/ }),
+
+/***/ 9795:
+/*!****************************************!*\
+  !*** ./src/app/constant/modelado3d.ts ***!
+  \****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "model3dImages": () => (/* binding */ model3dImages)
+/* harmony export */ });
+const model3dImages = [
     {
-        cover: '/assets/frontend/screenshot-ce',
-        title: 'Screenshot Chrome Extension',
-        stack: 'Angular 13, RxJS, TypeScript',
-        description: 'Utility to automate the process of take screenshot in multiple resolutions',
-        links: [
-            {
-                name: 'Repository',
-                zelda: 'https://github.com/02900/screenshot-chrome-extension',
-            },
-        ],
-        endDate: 2022,
+        path: 'assets/civil3d/0210-BD-02-CIV-001.jpg',
+        thumbnail: 'assets/civil3d/mini/0210-BD-02-CIV-001.jpg',
     },
     {
-        cover: '/assets/frontend/deck-builder',
-        title: 'Yu-Gi-Oh! Deck Builder',
-        stack: 'Angular 13, RxJS, TypeScript',
-        description: 'Simple application to show concepts about reactive programming and good practices in Angular',
-        links: [
-            { name: 'Repository', zelda: 'https://github.com/02900/deck-builder' },
-            { name: 'Demo', zelda: 'https://02900.github.io/ygo-deck-builder/' },
-        ],
-        endDate: 2022,
+        path: 'assets/civil3d/0210-BD-02-CIV-002.jpg',
+        thumbnail: 'assets/civil3d/mini/0210-BD-02-CIV-002.jpg',
     },
     {
-        cover: '/assets/frontend/kavak',
-        title: 'KAVAK',
-        stack: 'Typescript, Angular 11, Stencil, RxJs, Storybook',
-        description: 'Platform dedicated to the trade of used cars',
-        links: [{ name: 'Navigate to Kavak.com', zelda: 'https://www.kavak.com/' }],
-        startDate: 2018,
-        endDate: -1,
+        path: 'assets/civil3d/0210-BD-02-CIV-005AL00.jpg',
+        thumbnail: 'assets/civil3d/mini/0210-BD-02-CIV-005AL00.jpg',
+    },
+    {
+        path: 'assets/civil3d/0210-BD-02-CIV-014.jpg',
+        thumbnail: 'assets/civil3d/mini/0210-BD-02-CIV-014.jpg',
     },
 ];
 
@@ -301,8 +225,7 @@ const mapasGeo = [
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "parcelamientoImages": () => (/* binding */ parcelamientoImages),
-/* harmony export */   "parcelamiento": () => (/* binding */ parcelamiento)
+/* harmony export */   "parcelamientoImages": () => (/* binding */ parcelamientoImages)
 /* harmony export */ });
 const parcelamientoImages = [
     {
@@ -346,39 +269,52 @@ const parcelamientoImages = [
         thumbnail: '/assets/parcelamiento/mini/KompallyLandCADAJ-3ColorSELEE.Tex015pulg.jpg',
     },
 ];
-const parcelamiento = [
+
+
+/***/ }),
+
+/***/ 2171:
+/*!**************************************!*\
+  !*** ./src/app/constant/tuberias.ts ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "tuberiasImages": () => (/* binding */ tuberiasImages)
+/* harmony export */ });
+const tuberiasImages = [
     {
-        cover: '/assets/parcelamiento/479-KISTAPUR-1B-2',
-        title: 'Parcelamiento de Terreno',
-        stack: 'AutoCad 2023',
-        description: '',
-        links: [
-            {
-                name: 'Repository',
-                zelda: 'https://github.com/02900/screenshot-chrome-extension',
-            },
-        ],
-        endDate: 2022,
+        path: 'assets/tuberias/0210-BD-01-CIV-003.jpg',
+        thumbnail: 'assets/tuberias/mini/0210-BD-01-CIV-003.jpg',
     },
     {
-        cover: '/assets/frontend/deck-builder',
-        title: 'Yu-Gi-Oh! Deck Builder',
-        stack: 'Angular 13, RxJS, TypeScript',
-        description: 'Simple application to show concepts about reactive programming and good practices in Angular',
-        links: [
-            { name: 'Repository', zelda: 'https://github.com/02900/deck-builder' },
-            { name: 'Demo', zelda: 'https://02900.github.io/ygo-deck-builder/' },
-        ],
-        endDate: 2022,
+        path: 'assets/tuberias/0210-BD-01-CIV-004.jpg',
+        thumbnail: 'assets/tuberias/mini/0210-BD-01-CIV-004.jpg',
     },
     {
-        cover: '/assets/frontend/kavak',
-        title: 'KAVAK',
-        stack: 'Typescript, Angular 11, Stencil, RxJs, Storybook',
-        description: 'Platform dedicated to the trade of used cars',
-        links: [{ name: 'Navigate to Kavak.com', zelda: 'https://www.kavak.com/' }],
-        startDate: 2018,
-        endDate: -1,
+        path: 'assets/tuberias/0210-BD-01-CIV-016.jpg',
+        thumbnail: 'assets/tuberias/mini/0210-BD-01-CIV-016.jpg',
+    },
+    {
+        path: 'assets/tuberias/0210-BD-02-CIV-004.jpg',
+        thumbnail: 'assets/tuberias/mini/0210-BD-02-CIV-004.jpg',
+    },
+    {
+        path: 'assets/tuberias/0210-BD-02-CIV-010.jpg',
+        thumbnail: 'assets/tuberias/mini/0210-BD-02-CIV-010.jpg',
+    },
+    {
+        path: 'assets/tuberias/0210-BD-02-CIV-015.jpg',
+        thumbnail: 'assets/tuberias/mini/0210-BD-02-CIV-015.jpg',
+    },
+    {
+        path: 'assets/tuberias/0210-BD-02-CIV-023.jpg',
+        thumbnail: 'assets/tuberias/mini/0210-BD-02-CIV-023.jpg',
+    },
+    {
+        path: 'assets/tuberias/0210-BD-02-CIV-033.jpg',
+        thumbnail: 'assets/tuberias/mini/0210-BD-02-CIV-033.jpg',
     },
 ];
 
@@ -427,8 +363,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var src_app_constant_dist_mobiliario__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! src/app/constant/dist-mobiliario */ 5928);
 /* harmony import */ var src_app_constant_distrubucion_estacionamiento__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! src/app/constant/distrubucion-estacionamiento */ 3165);
 /* harmony import */ var src_app_constant_mapas_geo__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! src/app/constant/mapas-geo */ 8238);
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/core */ 3184);
-/* harmony import */ var _private_gallery_gallery_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./private/gallery/gallery.component */ 8589);
+/* harmony import */ var src_app_constant_modelado3d__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! src/app/constant/modelado3d */ 9795);
+/* harmony import */ var src_app_constant_tuberias__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! src/app/constant/tuberias */ 2171);
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @angular/core */ 3184);
+/* harmony import */ var _private_gallery_gallery_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./private/gallery/gallery.component */ 8589);
+
+
 
 
 
@@ -441,68 +381,86 @@ class HomeComponent {
         this.mobiliarioImgs = src_app_constant_dist_mobiliario__WEBPACK_IMPORTED_MODULE_1__.mobiliarioImgs;
         this.geoImages = src_app_constant_mapas_geo__WEBPACK_IMPORTED_MODULE_3__.geoImages;
         this.parkingimgs = src_app_constant_distrubucion_estacionamiento__WEBPACK_IMPORTED_MODULE_2__.parkingimgs;
+        this.model3dImages = src_app_constant_modelado3d__WEBPACK_IMPORTED_MODULE_4__.model3dImages;
+        this.tuberiasImages = src_app_constant_tuberias__WEBPACK_IMPORTED_MODULE_5__.tuberiasImages;
     }
 }
 HomeComponent.ɵfac = function HomeComponent_Factory(t) { return new (t || HomeComponent)(); };
-HomeComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵdefineComponent"]({ type: HomeComponent, selectors: [["ng-component"]], hostAttrs: [1, "h-100"], decls: 42, vars: 4, consts: [[1, "container"], [1, "description"], [1, "content"], [3, "images"]], template: function HomeComponent_Template(rf, ctx) { if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](0, "main", 0)(1, "div", 1)(2, "h1");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](3, "Miguel Ortiz");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](4, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](5, " \u00A1Bienvenido! Gracias por tomarte el tiempo de revisar mi portfolio. Estoy en constante aprendizaje y crecimiento como ingeniero civil, y continuamente agrego nuevos proyectos, caracter\u00EDsticas e innovaciones a este sitio. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](6, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](7, " Actualmente, estoy trabajando como ingeniero civil independiente, con una destacada actividad en la plataforma freelancer.es. Soy egresado de la Universidad de Oriente, especializado en Ingenier\u00EDa Civil. Aqu\u00ED puedes encontrar una selecci\u00F3n de mis trabajos m\u00E1s destacados. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](8, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](9, " Disfruto colaborando estrechamente con mis clientes para planificar y dise\u00F1ar espacios eficientes y atractivos. En los \u00FAltimos a\u00F1os, me he enfocado en proyectos de arquitectura que implican la distribuci\u00F3n de espacios y la incorporaci\u00F3n de mobiliario para oficinas, residencias y comercios en general. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](10, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](11, " He desarrollado habilidades s\u00F3lidas para realizar parcelamientos de terrenos, as\u00ED como la distribuci\u00F3n de espacios para estacionamientos de semi-trailer truck y todo tipo de veh\u00EDculos. Para estos proyectos, utilizo software especializado como Vehicle Tracking de Autodesk, y tengo la capacidad de ubicar lotes de terreno con georeferencia. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](12, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](13, " Mi experiencia se extiende durante casi 20 a\u00F1os, y a lo largo de este tiempo, he adquirido proficiencia en el uso de diversas herramientas, como AutoCAD 2D, Civil 3D, SketchUp, Photoshop e Illustrator. La optimizaci\u00F3n y eficiencia en la ejecuci\u00F3n de los proyectos es un aspecto que siempre busco mejorar. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](14, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](15, " Uno de los elementos que me apasiona es la exploraci\u00F3n de nuevas tecnolog\u00EDas y t\u00E9cnicas. Actualmente, estoy estudiando m\u00E1s sobre la aplicaci\u00F3n de Sketch en proyectos de Arquitectura. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](16, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](17, " En el futuro, me gustar\u00EDa expandir a\u00FAn m\u00E1s mis habilidades y experiencias en dise\u00F1o arquitect\u00F3nico y urbanismo. Agradezco tu inter\u00E9s en mi trabajo y espero tener la oportunidad de colaborar en tu pr\u00F3ximo proyecto. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](18, "section")(19, "div", 1)(20, "h2");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](21, "Distribuci\u00F3n de terrenos por lotes (Parcelamiento)");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](22, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelement"](23, "app-gallery", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](24, "section")(25, "div", 1)(26, "h2");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](27, "Distribuci\u00F3n de espacios e incorporacion de mobiliario.");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](28, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelement"](29, "app-gallery", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](30, "section")(31, "div", 1)(32, "h2");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](33, "Elaboraci\u00F3n de Mapas georefrenciados");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](34, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelement"](35, "app-gallery", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](36, "section")(37, "div", 1)(38, "h2");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵtext"](39, " Distribuci\u00F3n de terrenos para estacionamientos Semi-Trailer y vehiculos tipos en general ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementStart"](40, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelement"](41, "app-gallery", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵelementEnd"]()()();
+HomeComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵdefineComponent"]({ type: HomeComponent, selectors: [["ng-component"]], hostAttrs: [1, "h-100"], decls: 54, vars: 6, consts: [[1, "container"], [1, "description"], [1, "content"], [3, "images"]], template: function HomeComponent_Template(rf, ctx) { if (rf & 1) {
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](0, "main", 0)(1, "div", 1)(2, "h1");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](3, "Miguel Ortiz");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](4, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](5, " \u00A1Bienvenido! Gracias por tomarte el tiempo de revisar mi portfolio. Estoy en constante aprendizaje y crecimiento como ingeniero civil, y continuamente agrego nuevos proyectos, caracter\u00EDsticas e innovaciones a este sitio. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](6, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](7, " Actualmente, estoy trabajando como ingeniero civil independiente, con una destacada actividad en la plataforma freelancer.es. Soy egresado de la Universidad de Oriente, especializado en Ingenier\u00EDa Civil. Aqu\u00ED puedes encontrar una selecci\u00F3n de mis trabajos m\u00E1s destacados. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](8, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](9, " Disfruto colaborando estrechamente con mis clientes para planificar y dise\u00F1ar espacios eficientes y atractivos. En los \u00FAltimos a\u00F1os, me he enfocado en proyectos de arquitectura que implican la distribuci\u00F3n de espacios y la incorporaci\u00F3n de mobiliario para oficinas, residencias y comercios en general. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](10, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](11, " He desarrollado habilidades s\u00F3lidas para realizar parcelamientos de terrenos, as\u00ED como la distribuci\u00F3n de espacios para estacionamientos de semi-trailer truck y todo tipo de veh\u00EDculos. Para estos proyectos, utilizo software especializado como Vehicle Tracking de Autodesk, y tengo la capacidad de ubicar lotes de terreno con georeferencia. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](12, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](13, " Mi experiencia se extiende durante casi 20 a\u00F1os, y a lo largo de este tiempo, he adquirido proficiencia en el uso de diversas herramientas, como AutoCAD 2D, Civil 3D, SketchUp, Photoshop e Illustrator. La optimizaci\u00F3n y eficiencia en la ejecuci\u00F3n de los proyectos es un aspecto que siempre busco mejorar. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](14, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](15, " Uno de los elementos que me apasiona es la exploraci\u00F3n de nuevas tecnolog\u00EDas y t\u00E9cnicas. Actualmente, estoy estudiando m\u00E1s sobre la aplicaci\u00F3n de Sketch en proyectos de Arquitectura. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](16, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](17, " En el futuro, me gustar\u00EDa expandir a\u00FAn m\u00E1s mis habilidades y experiencias en dise\u00F1o arquitect\u00F3nico y urbanismo. Agradezco tu inter\u00E9s en mi trabajo y espero tener la oportunidad de colaborar en tu pr\u00F3ximo proyecto. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](18, "section")(19, "div", 1)(20, "h2");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](21, "Distribuci\u00F3n de terrenos por lotes (Parcelamiento)");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](22, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](23, "app-gallery", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](24, "section")(25, "div", 1)(26, "h2");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](27, "Distribuci\u00F3n de espacios e incorporacion de mobiliario.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](28, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](29, "app-gallery", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](30, "section")(31, "div", 1)(32, "h2");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](33, "Elaboraci\u00F3n de Mapas georefrenciados");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](34, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](35, "app-gallery", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](36, "section")(37, "div", 1)(38, "h2");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](39, " Distribuci\u00F3n de terrenos para estacionamientos Semi-Trailer y vehiculos tipos en general ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](40, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](41, "app-gallery", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](42, "section")(43, "div", 1)(44, "h2");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](45, "Civil 3D");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](46, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](47, "app-gallery", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](48, "section")(49, "div", 1)(50, "h2");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](51, "Colectores y Tuber\u00EDa de impulsi\u00F3n");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](52, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](53, "app-gallery", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()()();
     } if (rf & 2) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵadvance"](23);
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵproperty"]("images", ctx.parcelamientoImages);
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵadvance"](6);
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵproperty"]("images", ctx.mobiliarioImgs);
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵadvance"](6);
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵproperty"]("images", ctx.geoImages);
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵadvance"](6);
-        _angular_core__WEBPACK_IMPORTED_MODULE_5__["ɵɵproperty"]("images", ctx.parkingimgs);
-    } }, directives: [_private_gallery_gallery_component__WEBPACK_IMPORTED_MODULE_4__.GalleryComponent], styles: [".description[_ngcontent-%COMP%] {\n  max-width: 960px;\n  padding: 0 1rem;\n  margin: 2rem auto;\n}\n.description[_ngcontent-%COMP%]   h1[_ngcontent-%COMP%], .description[_ngcontent-%COMP%]   h2[_ngcontent-%COMP%] {\n  text-align: center;\n}\nsection[_ngcontent-%COMP%] {\n  margin-bottom: 4rem;\n}\nsection[_ngcontent-%COMP%]   .content[_ngcontent-%COMP%] {\n  display: flex;\n  justify-content: center;\n  flex-wrap: wrap;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhvbWUuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxnQkFBQTtFQUNBLGVBQUE7RUFDQSxpQkFBQTtBQUNGO0FBQ0U7O0VBRUUsa0JBQUE7QUFDSjtBQUdBO0VBQ0UsbUJBQUE7QUFBRjtBQUVFO0VBQ0UsYUFBQTtFQUNBLHVCQUFBO0VBQ0EsZUFBQTtBQUFKIiwiZmlsZSI6ImhvbWUuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuZGVzY3JpcHRpb24ge1xuICBtYXgtd2lkdGg6IDk2MHB4O1xuICBwYWRkaW5nOiAwIDFyZW07XG4gIG1hcmdpbjogMnJlbSBhdXRvO1xuXG4gIGgxLFxuICBoMiB7XG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICB9XG59XG5cbnNlY3Rpb24ge1xuICBtYXJnaW4tYm90dG9tOiA0cmVtO1xuXG4gIC5jb250ZW50IHtcbiAgICBkaXNwbGF5OiBmbGV4O1xuICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgIGZsZXgtd3JhcDogd3JhcDtcbiAgfVxufVxuIl19 */"] });
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("images", ctx.parcelamientoImages);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("images", ctx.mobiliarioImgs);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("images", ctx.geoImages);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("images", ctx.parkingimgs);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("images", ctx.model3dImages);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("images", ctx.tuberiasImages);
+    } }, directives: [_private_gallery_gallery_component__WEBPACK_IMPORTED_MODULE_6__.GalleryComponent], styles: [".description[_ngcontent-%COMP%] {\n  max-width: 960px;\n  padding: 0 1rem;\n  margin: 2rem auto;\n}\n.description[_ngcontent-%COMP%]   h1[_ngcontent-%COMP%], .description[_ngcontent-%COMP%]   h2[_ngcontent-%COMP%] {\n  text-align: center;\n}\nsection[_ngcontent-%COMP%] {\n  margin-bottom: 4rem;\n}\nsection[_ngcontent-%COMP%]   .content[_ngcontent-%COMP%] {\n  display: flex;\n  justify-content: center;\n  flex-wrap: wrap;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhvbWUuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxnQkFBQTtFQUNBLGVBQUE7RUFDQSxpQkFBQTtBQUNGO0FBQ0U7O0VBRUUsa0JBQUE7QUFDSjtBQUdBO0VBQ0UsbUJBQUE7QUFBRjtBQUVFO0VBQ0UsYUFBQTtFQUNBLHVCQUFBO0VBQ0EsZUFBQTtBQUFKIiwiZmlsZSI6ImhvbWUuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuZGVzY3JpcHRpb24ge1xuICBtYXgtd2lkdGg6IDk2MHB4O1xuICBwYWRkaW5nOiAwIDFyZW07XG4gIG1hcmdpbjogMnJlbSBhdXRvO1xuXG4gIGgxLFxuICBoMiB7XG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICB9XG59XG5cbnNlY3Rpb24ge1xuICBtYXJnaW4tYm90dG9tOiA0cmVtO1xuXG4gIC5jb250ZW50IHtcbiAgICBkaXNwbGF5OiBmbGV4O1xuICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgIGZsZXgtd3JhcDogd3JhcDtcbiAgfVxufVxuIl19 */"] });
 
 
 /***/ }),
